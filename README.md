@@ -2,7 +2,7 @@
 
 the best of the best
 
-.gg/eviction
+https://discord.gg/eviction
 
 you must downgrade your discord.py to use this
 
