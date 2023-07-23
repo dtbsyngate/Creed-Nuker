@@ -1,5 +1,0 @@
-cmds .wizz (self explanatory) & .ice (mass webhook spammer & .massban (self explanatory) & .massdm (dms every single member in a server) .raid (deletes every single role then channal in a discord server at a speed so that it would not get rate limited even IF you are on a vpn
-
-to use .massdm you must say .massdm ("message") 
-
-if you think the mass webhook spammer is slow i made it that speed so that it would not get rate limted
