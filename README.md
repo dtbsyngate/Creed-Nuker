@@ -1,6 +1,8 @@
-# Creed-NukerV2
+# Creed-NukerV3
 
-the best of the best
+prob the last update on this code because I don't care about updating this project anymore
+
+https://media.discordapp.net/attachments/1134665894392496220/1135310587686043708/image.png?width=1401&height=662
 
 https://discord.gg/eviction
 
