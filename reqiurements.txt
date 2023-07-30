@@ -1,0 +1,7 @@
+discord.py
+colorama
+aiohttp
+asyncio
+string
+httpx
+os
