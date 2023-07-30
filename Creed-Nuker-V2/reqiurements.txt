@@ -1,4 +1,0 @@
-discord.py
-colorama
-aiohttp
-asyncio
